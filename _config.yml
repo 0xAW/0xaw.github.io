@@ -10,6 +10,6 @@ url: "https://0xaw.github.io"
 github_username: 0xAW
 
 # Build settings
-theme: Hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
