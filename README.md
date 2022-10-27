@@ -1,4 +1,3 @@
-# Testing 
 Testing file to see the github.io default styling.
 
 ```bash 

@@ -3,8 +3,7 @@
 
 title: 0xAW - Github Page
 email: alxwrrn@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Just another dev site.
+description: Just another dev site.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://0xaw.github.io"
 github_username: 0xAW
