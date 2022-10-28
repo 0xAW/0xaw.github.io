@@ -5,7 +5,24 @@
 .page-header {
 	background-color: #000000;
 	background-image: unset;
+	padding: 10px;
+	font-family: serif;
+	color: #efefef;
 }
 body {
 	font-family: monospace;
+	color: black;
+}
+
+.page-header .btn {
+	display: none;
+}
+
+footer {
+	display: none;
+}
+
+a {
+	color: #2222dd;
+	text-decoration: underline;
 }
